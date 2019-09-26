@@ -1,0 +1,5 @@
+Click this link to download the Nearest Neighbor MNIST notebook and then complete problem 1.
+https://prod-edxapp.edx-cdn.org/assets/courseware/v1/71a9e07efe37008782f9b5807126e752/asset-v1:UCSanDiegoX+DSE220x+3T2019+type@asset+block/NN_MNIST.zip
+
+Click this link to download the Nearest Neighbor for Spine Injury notebook and then complete problems 2-4.
+https://prod-edxapp.edx-cdn.org/assets/courseware/v1/2480eff55cfe9428dd1e6e316ab0345b/asset-v1:UCSanDiegoX+DSE220x+3T2019+type@asset+block/NN_spine.zip
